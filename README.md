@@ -1,2 +1,0 @@
-# KisiselSayfamiziDetaylandirmak
-PatikaÖdev
